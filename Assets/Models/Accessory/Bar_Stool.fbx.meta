@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 6957aa4d1e5a284499cf82ebb462e817
+timeCreated: 1426548824
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ' Revolve [2905]'
+    100002: ' Revolve [2915]'
+    100004: ' Revolve [2926]'
+    100006: ' Revolve [2931]'
+    100008: ' Sweep [2934]'
+    100010: ' Sweep [2949]'
+    100012: ' Sweep [2962]'
+    100014: ' Sweep [2975]'
+    100016: ' Sweep [2996]'
+    100018: ' Sweep [3007]'
+    100020: ' Sweep [3019]'
+    100022: //RootNode
+    400000: ' Revolve [2905]'
+    400002: ' Revolve [2915]'
+    400004: ' Revolve [2926]'
+    400006: ' Revolve [2931]'
+    400008: ' Sweep [2934]'
+    400010: ' Sweep [2949]'
+    400012: ' Sweep [2962]'
+    400014: ' Sweep [2975]'
+    400016: ' Sweep [2996]'
+    400018: ' Sweep [3007]'
+    400020: ' Sweep [3019]'
+    400022: //RootNode
+    2300000: ' Revolve [2905]'
+    2300002: ' Revolve [2915]'
+    2300004: ' Revolve [2926]'
+    2300006: ' Revolve [2931]'
+    2300008: ' Sweep [2934]'
+    2300010: ' Sweep [2949]'
+    2300012: ' Sweep [2962]'
+    2300014: ' Sweep [2975]'
+    2300016: ' Sweep [2996]'
+    2300018: ' Sweep [3007]'
+    2300020: ' Sweep [3019]'
+    3300000: ' Revolve [2905]'
+    3300002: ' Revolve [2915]'
+    3300004: ' Revolve [2926]'
+    3300006: ' Revolve [2931]'
+    3300008: ' Sweep [2934]'
+    3300010: ' Sweep [2949]'
+    3300012: ' Sweep [2962]'
+    3300014: ' Sweep [2975]'
+    3300016: ' Sweep [2996]'
+    3300018: ' Sweep [3007]'
+    3300020: ' Sweep [3019]'
+    4300000: ' Revolve [2905]'
+    4300002: ' Revolve [2915]'
+    4300004: ' Revolve [2926]'
+    4300006: ' Revolve [2931]'
+    4300008: ' Sweep [2934]'
+    4300010: ' Sweep [2949]'
+    4300012: ' Sweep [2962]'
+    4300014: ' Sweep [2975]'
+    4300016: ' Sweep [2996]'
+    4300018: ' Sweep [3007]'
+    4300020: ' Sweep [3019]'
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.35000002
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
